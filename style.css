@@ -5,8 +5,10 @@
 
 .header1{
   /* margin-left: 50px; */
-    margin-top: 20px;
+    margin-top: 10px;
     text-align: center;
+    background-color: rgb(143, 145, 145);
+   /* // position: fixed; */
 }
 img{
     /* display: flex;
